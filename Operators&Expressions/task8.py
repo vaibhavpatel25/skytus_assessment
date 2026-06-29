@@ -1,0 +1,5 @@
+A=str(input("enter a number in string :"))
+print(A)
+B=int(float(A))
+print(B)
+print(f"{B} x 10 = {B*10}")
